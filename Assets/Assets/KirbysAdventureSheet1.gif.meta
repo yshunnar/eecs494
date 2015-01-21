@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 964475306132f464e89e40d2a9b2e631
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KirbysAdventureSheet1_0
+    21300002: KirbysAdventureSheet1_1
+    21300004: KirbysAdventureSheet1_2
+    21300006: KirbysAdventureSheet1_3
+    21300008: KirbysAdventureSheet1_4
+    21300010: KirbysAdventureSheet1_5
+    21300012: KirbysAdventureSheet1_6
+    21300014: KirbysAdventureSheet1_7
+    21300016: KirbysAdventureSheet1_8
+    21300018: KirbysAdventureSheet1_9
+    21300020: KirbysAdventureSheet1_10
+    21300022: KirbysAdventureSheet1_11
+    21300024: KirbysAdventureSheet1_12
+    21300026: KirbysAdventureSheet1_13
+    21300028: KirbysAdventureSheet1_14
+    21300030: KirbysAdventureSheet1_15
+    21300032: KirbysAdventureSheet1_16
+    21300034: KirbysAdventureSheet1_17
+    21300036: KirbysAdventureSheet1_18
+    21300038: KirbysAdventureSheet1_19
+    21300040: KirbysAdventureSheet1_20
+    21300042: KirbysAdventureSheet1_21
+    21300044: KirbysAdventureSheet1_22
+    21300046: KirbysAdventureSheet1_23
+    21300048: KirbysAdventureSheet1_24
+    21300050: KirbysAdventureSheet1_25
+    21300052: KirbysAdventureSheet1_26
+    21300054: KirbysAdventureSheet1_27
+    21300056: KirbysAdventureSheet1_28
+    21300058: KirbysAdventureSheet1_29
+    21300060: KirbysAdventureSheet1_30
+    21300062: KirbysAdventureSheet1_31
+    21300064: KirbysAdventureSheet1_32
+    21300066: KirbysAdventureSheet1_33
+    21300068: KirbysAdventureSheet1_34
+    21300070: KirbysAdventureSheet1_35
+    21300072: KirbysAdventureSheet1_36
+    21300074: KirbysAdventureSheet1_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KirbysAdventureSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 145
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 109
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 109
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 93
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 93
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 93
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 69
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 19
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 19
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KirbysAdventureSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
